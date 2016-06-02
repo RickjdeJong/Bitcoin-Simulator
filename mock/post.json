@@ -1,0 +1,12 @@
+[
+    {"id": "1337"}, 
+    {"name": "Redneck-Billy"},
+    {"amount": "1000"}, 
+    {"unlocks": [
+    	{"Miner1": 10},
+    	{"Miner2": 25},
+    	{"Miner3": 35},
+    ]},
+    {"gender": "male"}, 
+    {"profile-picture": "img/logo.png"}
+  ]
